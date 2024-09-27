@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on a very secret project<br>👯 Looking to collaborate on Weather App<br>🤝 Looking for help with Computer Networks<br>🌱 I’m currently learning REST APIs<br>💬 Ask me about UI/UX design, Front-end Development, Cybersecurity<br>⚡ Fun fact I like pineapple on my pizza (JK)
+🔭 Currently working on Slack Clone<br>👯 Looking to collaborate on Weather App<br>🤝 Looking for help with Computer Networks<br>🌱 I’m currently learning REST APIs<br>💬 Ask me about UI/UX design, Front-end Development, Cybersecurity<br>⚡ Fun fact I like pineapple on my pizza (JK)
 
 
 # 💻 Tech Stack:
